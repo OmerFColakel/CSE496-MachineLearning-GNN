@@ -1,0 +1,7 @@
+Hidden Channels: 64
+Learning Rate: 0.001
+Test Loss: 0.0017
+Mean Absolute Error: 0.0207
+Mean Squared Error: 0.0017
+Root Mean Squared Error: 0.0413
+R^2 Score: 0.7591
